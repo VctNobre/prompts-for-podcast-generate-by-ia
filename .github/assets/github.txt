@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://github.com/VctNobre/prompts-for-podcast-generate-by-ia
+=======
+https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook
+>>>>>>> 01a6e25a01d9c413aef848dde690688ca2b703aa
