@@ -29,11 +29,22 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um cusro da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizou uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizou-se uma esteira de prompts para gerar cada etapa do processo criativo.
+
+## 🎙️ A Nova Esperança Neural
+Explorando as conexões que moldam o amanhã
+
+A Nova Esperança Neural é um podcast experimental criado 100% com o apoio de Inteligências Artificiais, com o objetivo de apresentar de forma leve e acessível curiosidades, dicas e novidades sobre o universo da IA. Voltado para iniciantes e entusiastas de tecnologia, o podcast mistura informação e entretenimento com uma pegada nerd divertida.
+
+O primeiro episódio traz explicações simples sobre como as inteligências artificiais aprendem com exemplos, além de apresentar ferramentas fáceis de usar, como o Teachable Machine do Google.
+
+Este projeto demonstra o potencial criativo do uso combinado de ferramentas de IA para gerar roteiro, voz, imagens e edição, resultando em um conteúdo completo e original.
+
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
